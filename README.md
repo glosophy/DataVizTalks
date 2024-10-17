@@ -1,4 +1,6 @@
 # My Talks on DataViz
+- [Let's talk data vis!](https://docs.google.com/presentation/d/1APhU6OMfJjZ3Bxt_IbLnl2fdMJ6EP_X3evIZfE9T0lA/edit?usp=sharing) (CODE University, Berlin - October 2024)
+- [Let's create constructive charts!](https://docs.google.com/presentation/d/1YJ8nh5musCqrZOYcfb45HyZnTWopJAQVq7EjSpnK3PQ/edit?usp=sharing) (b future festival, Bonn - October 2023)
 - [DataViz: A Thousand Faces](https://docs.google.com/presentation/d/1YJ8nh5musCqrZOYcfb45HyZnTWopJAQVq7EjSpnK3PQ/edit?usp=sharing) (DC DataViz Meetup, April, 2022)
 - [DataViz for non-profits](https://www.youtube.com/watch?v=DJwG-4MqnEQ) (Outlier Conference 2021)
 - [DataViz para organizaciones sin fines de lucro](https://www.youtube.com/watch?v=rvyosKes1Jc) (Outlier Conference 2021)
